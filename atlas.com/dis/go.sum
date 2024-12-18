@@ -2,6 +2,8 @@ dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/Chronicle20/atlas-model v0.0.0-20240724125124-7952fe30f754 h1:vR6WNiZMOGcUPKDRGGsq7k96dwUWtx8JBhS2ntWsdb4=
 github.com/Chronicle20/atlas-model v0.0.0-20240724125124-7952fe30f754/go.mod h1:pqiCUYkDTLXkObDhi2QkVmi/ncfjq8TvESoxJSap4DM=
+github.com/Chronicle20/atlas-model v1.2.1 h1:F/SYo4PAHd1BuZz5/RV65V4uv5wXHzE95LE4nkmhO4g=
+github.com/Chronicle20/atlas-model v1.2.1/go.mod h1:5FNYT/ypml+goxft0XCACTEp6666yys+l6LTxSPeh1k=
 github.com/Chronicle20/atlas-rest v0.0.0-20240723203319-7d81b01598b5 h1:xWqiSJ0Eyyzm+OI4iwaJ54Aq/ydwR+84TgvE8QZGUT0=
 github.com/Chronicle20/atlas-rest v0.0.0-20240723203319-7d81b01598b5/go.mod h1:77IkwcbBc0JKzbHFycb3a4BrkAzvlVHdo9Cl/ckZ7Pk=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2 h1:5IcZpTvzydCQeHzK4Ef/D5rrSqwxob0t8PQPMybUNFM=
